@@ -1,0 +1,395 @@
+@media (max-width:1202px) {
+ 
+  .salad-content .right {
+    right: -242px;
+  }
+  .salad-content .left {
+    left: -242px;
+  }
+}
+
+@media (max-width:1024px) {
+  .salad-content .right {
+    right: -100px;
+  }
+  .salad-content .left {
+    left: -100px;
+  }
+}
+
+@media (max-width:992px) {
+  footer p {
+    text-align: center !important;
+    box-sizing: content-box;
+}
+.header-content h1 {
+  font-size: 34px;
+}
+.nav-item {
+  margin: 0px 4px !important;
+}
+.salad-content .right {
+  right: -133px;
+}
+.salad-content .left {
+  left: -133px;
+}
+form h2 {
+  font-size: 23px;
+}
+}
+
+@media (max-width:768px) {
+  .desktop{
+    display: none;
+  }
+  .mobile{
+    display:inline-block;
+  }
+  .nav-item{
+    justify-content: end;
+    margin: 0;
+    padding: 0;
+  }
+  .nav-link{
+    font-size: 12px;
+  }
+  .header-content h1 {
+    font-size: 33px;
+    font-weight: 700;
+    font-family: 'helveticabold';
+  }
+  .header-content{
+    font-size: 12px;
+  }
+  .salad-content h1 {
+    font-size: 29px;
+    font-family: 'helveticabold';
+  }
+  .salad-content .left {
+    width: 100px;
+    left: -56px;
+    top: 19px;
+  }
+  .salad-content .right{
+    width: 100px;
+    right: -56px;
+    top: 19px;
+}
+  .header-content {
+    min-height: 81vh;
+  }
+  .salad-content p {
+    margin: 25px 0px;
+  }
+  .btn-meats{
+    margin: 0px 42px;
+  }
+  .btn-more {
+    margin: 21px 0px;
+    padding: 7px 12px;
+  }
+  .chek-content h2 {
+      line-height: 35px;
+      font-size: 27px;
+      font-family: 'helveticabold';
+      padding: 20px 0px;
+  }
+.icon-content {
+  margin-bottom: 50px;
+  }
+  .icon-content h4 {
+    margin-bottom: 10px;
+  }
+  .btn-icon {
+    font-size: 10px;
+  }
+  form h2{
+    font-size: 30px;
+    font-family: 'helveticabold';
+  }
+  form input{
+   margin-top: 38px;
+  }
+  .mobile-footer{
+    text-align: center !important;
+    justify-content: center !important;
+  }
+  footer ul li {
+    margin: 0px 10px;
+  }
+  footer ul li a{
+    font-size: 14px;
+  }
+  footer p{
+    font: 10px;
+  }
+  footer ul{
+    justify-content: center;
+  }
+  .mobile-footer-row{
+    padding: 23px !important;
+  }
+}
+         /*================= 600 px =============== */
+
+@media (max-width:600px){
+  .salad-content .left {
+    width: 72px;
+    left: -23px;
+  }
+  .salad-content .right{
+    width: 72px;
+    right: -23px;
+  }
+  form h2 {
+    font-size: 28px;
+}
+}
+         /*============ 575 px ========= */
+@media (max-width:575px){
+  .w-75 {
+    width: 64%!important;
+  }
+  .salad-content h1 {
+      font-size: 30px;
+  }
+  .salad-content .right {
+    width: 57px;
+    right: 0px;
+  }
+.salad-content .left {
+  width: 57px;
+  left: 0px;
+}
+}
+            /*======== 526 px ============= */
+
+@media (max-width:526px){
+  form h2{
+    font-size: 20px;
+  }
+  .salad-content h1 {
+    font-size: 25px;
+  }
+  .chek-content h2 {
+    line-height: 25px;
+    font-size: 21px;
+}
+}
+         /*============ 500 px =========== */
+
+ @media (max-width:500px){
+  .navbar-brand{
+    width: 40%;
+  }
+  .salad-content .right {
+    width: 10%;
+    right: -5px;
+    top: 19px;
+  }
+  .salad-content .left {
+    width: 10%;
+    left: -5px;
+    top: 19px;
+  }
+  .header-content h1 {
+    font-size: 27px;
+  }
+  .btn-desserts {
+    padding: 5px 16px;
+  }
+  .btn-meats {
+    padding: 5px 16px;
+      margin: 0px 19px;
+  
+  }
+  .btn-salads {
+    padding: 5px 16px;
+  }
+  form input {
+    font-size: 13px;
+  }
+  form .btn-mail {
+    padding: 6px 19px;
+    font-size: 13px;
+  }
+  .salad-content h1 {
+    font-size: 22px;
+  }
+  .salad-content .left {
+    left: -2px;
+    top: 12px;
+  }
+  .salad-content .right {
+    right: -2px;
+    top: 12px;
+  }
+}
+
+
+@media (max-width:426px){
+
+}
+            /*========= 414 px ============ */
+
+@media (max-width:414px){
+  .btn-meats {
+    margin: 0px 8px;
+  }
+  .salad-content .right{
+    display: none;
+  }
+  .salad-content .left{
+    display: none;
+  }
+  .header-content h1 {
+    font-size: 23px;
+  }
+  .header-content p {
+    font-size: 12px;
+  }
+  .salad-content h1 {
+    font-size: 20px;
+}
+.salad-content p {
+  font-size: 13px;
+}
+.icon-content h4 {
+  font-size: 21px;
+}
+.icon-content p {
+  font-size: 13px;
+}
+form .btn-mail {
+  padding: 6px 18px;
+  font-size: 13px;
+}
+footer p {
+  font-size: 12px;
+}
+footer ul li {
+  margin: 0px 7px;
+}
+footer ul li a {
+  font-size: 13px;
+}
+}
+
+@media (max-width:382px){
+  .btn-desserts {
+    padding: 6px 18px;
+    font-size: 12px;
+}
+.btn-meats {
+  padding: 6px 18px;
+  font-size: 12px;
+    margin: 0px 6px;
+}
+.btn-salads{
+  padding: 6px 18px;
+  font-size: 12px;
+}
+}
+               /* ======361 px======= */
+ @media (max-width:361px){
+form h2 {
+    font-size: 15px;
+  }
+  form input {
+    padding: 5px 1px;
+    font-size: 12px;
+  }
+  .form {
+    min-height: 39vh;
+  }
+ }
+             /*===============320px small mobile ========= */
+@media (max-width:320px){
+  footer p {
+    font-size: 9px;
+  }
+  footer ul li {
+    margin: 0px 5px;
+  }
+  footer ul li a {
+    font-size: 10px;
+  }
+  form h2 {
+    font-size: 14px;
+  }
+  form input {
+    margin-top: 25px;
+  }
+  .salad-content h1 {
+    font-size: 18px;
+  }
+  .salad-content .right {
+    width: 8%;
+    right: -5px;
+    top: 12px;
+  }
+  .salad-content .left {
+    width: 8%;
+    left: -5px;
+    top: 12px;
+  }
+  .salad-content p {
+    font-size: 14px;
+  }
+  .icon-content p {
+    font-size: 14px;
+  }
+  .icon-content h4 {
+    font-size: 18px;
+  }
+  .btn-order {
+    font-size: 9px;
+    padding: 5px 14px;
+    margin-top: 8px;
+  }
+  .order-content h3 {
+    font-size: 14px;
+    margin-top: 5px;
+  }
+  .order-content p {
+    font-size: 10px;
+    line-height: 13px;
+}
+.order-content span {
+  font-size: 27px;
+}
+.order-content h2 {
+  font-size: 21px;
+}
+.btn-salads {
+  padding: 5px 10px;
+  font-size: 12px;
+}
+.btn-meats {
+  padding: 5px 10px;
+  font-size: 12px;
+  margin: opx 4px;
+}
+.btn-desserts {
+  padding: 5px 10px;
+  font-size: 12px;
+}
+.btn-more {
+  margin: 21px 0px;
+  padding: 5px 15px;
+  font-size: 12px;
+}
+.header-content p {
+  font-size: 13px;
+  padding: 13px 13px;
+}
+.header-content h1 {
+  font-size: 24px;
+}
+form input {
+  width: 95%;
+  padding: 5px 1px;
+  font-size: 12px;
+}
+}
